@@ -13,7 +13,7 @@ A real-time hand gesture-controlled drawing application using MediaPipe and Open
 
 🖼️ Overlay canvas on live webcam feed
 
-💻 Works in real time on CPU
+💻 Works in real time on GPU
 # 🛠️ Requirements
 Python 3.9+
 
